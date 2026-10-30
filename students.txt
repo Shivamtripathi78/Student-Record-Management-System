@@ -1,0 +1,3 @@
+101|Rahul|18|CSE|92
+102|Aman|21|IT|78
+104|Shivam|20|ECE|97
